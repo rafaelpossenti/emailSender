@@ -49,7 +49,7 @@ public class MyClass {
  \
   |--main
   \
-   |--main\java\br\com\possenti\emailSender
+   |--java\br\com\possenti\emailSender
    \
     |--EmailSenderApplication.java
     |--EmailService.java
