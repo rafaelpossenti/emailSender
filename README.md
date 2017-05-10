@@ -10,7 +10,7 @@ a template build for me in spring boot to send emails. [project generate with Sp
 
 ## How To use? 
 
-1. Download the project and inside the folder emailSender execute the followin command:
+1. Download the project and inside the folder emailSender execute the following command:
 ```
 mvn install
 ```
