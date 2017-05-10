@@ -24,7 +24,7 @@ mvn install
 </dependency>
 ```
 
-3. use the example above in the class to send a email:
+3. use the example above in the class to send an email:
 ```
 import br.com.possenti.emailSender.EmailService;
 @Controller
